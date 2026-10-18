@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Govind</h1>
+<h1 align="center">Hi there, I'm Sai Govind Cheruvupalli</h1>
 
 <h3 align="center">
 Aspiring Python Developer | Django Developer | AI Native Developer
@@ -29,21 +29,22 @@ Passionate about building scalable web applications and continuously learning ne
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Frontend
 - HTML5
 - CSS3
-- JavaScript
-- ReactJS
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 - Material UI
 
 ### Backend
 - Django
 
 ### Database
-- MySQL
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
 - Git
